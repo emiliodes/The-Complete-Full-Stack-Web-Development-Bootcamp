@@ -1,0 +1,3 @@
+document.query
+var emri = document.firstElementChild.lastElementChild.firstElementChild.nextElementSibling.nextElementSibling.nextElementSibling.firstElementChild.nextElementSibling
+emri.innerHTML="EMILIO"
